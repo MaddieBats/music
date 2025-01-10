@@ -7,7 +7,12 @@ recordings/
 │  │  ├─ electronic/
 │  ├─ other/
 │  ├─ touching/
+│  │  ├─ sex/
+│  │  ├─ otherintimacy/
 │  ├─ voice/
+│  │  ├─ interview/
+│  │  ├─ incidental/
+│  │  ├─ gutterral/
 │  ├─ ticstim/
 │  │  ├─ physical/
 │  │  │  ├─ simple/
@@ -15,11 +20,14 @@ recordings/
 │  │  ├─ vocal/
 │  │  │  ├─ simple/
 │  │  │  ├─ complex/
+│  │  ├─ interviews/
+│  │  ├─ ticstim.md
 ├─ biogenic/
 │  ├─ animal/
 │  │  ├─ bird/
 │  │  ├─ mammal/
 │  │  │  ├─ bat/
+│  │  │  ├─ pets/
 │  │  ├─ other/
 │  ├─ other/
 │  ├─ plant/
@@ -35,15 +43,32 @@ recordings/
 │  │  │  ├─ night/
 │  │  ├─ grassland/
 │  │  ├─ ocean/
-│  ├─ interstitial/
+│  ├─ junkspace/
+│  │  ├─ industrial/
+│  │  ├─ abandoned/
 │  ├─ transport/
 │  │  ├─ boat/
 │  │  ├─ car/
 │  │  ├─ cycle/
-│  │  ├─ train/
-│  │  ├─ tube/
+│  │  ├─ rail/
+│  │  ├─ rapidtransit/
+│  │  │  ├─ tube/
+│  │  │  ├─ overground/
+│  │  │  ├─ elizabeth/
+│  │  │  ├─ dlr/
+│  │  │  ├─ rapidtransit.md
+│  │  ├─ bus/
 │  │  ├─ walk/
 │  ├─ urban/
+│  │  ├─ day/
+│  │  ├─ night/
+│  │  │  ├─ nightlife/
+│  │  │  │  ├─ oto/
+│  │  │  │  ├─ fold/
+│  │  │  │  │  ├─ smokingarea/
+│  │  │  │  ├─ mot/
+│  │  │  │  │  ├─ smokingarea/
+│  ├─ suburban/
 │  │  ├─ day/
 │  │  ├─ night/
 writing/
