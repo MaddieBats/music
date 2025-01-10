@@ -40,5 +40,6 @@ recordings/
 │  │  ├─ day/
 │  │  ├─ night/
 writing/
+reading/
 readme.md
 ```
