@@ -8,6 +8,13 @@ recordings/
 │  ├─ other/
 │  ├─ touching/
 │  ├─ voice/
+│  ├─ ticstim/
+│  │  ├─ physical/
+│  │  │  ├─ simple/
+│  │  │  ├─ complex/
+│  │  ├─ vocal/
+│  │  │  ├─ simple/
+│  │  │  ├─ complex/
 ├─ biogenic/
 │  ├─ animal/
 │  │  ├─ bird/
