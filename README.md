@@ -9,6 +9,7 @@ Optional metadata:
 * Date of recording (hhmmss)
 * Location of recording (LOClocation)
 * Reminder of what it is (REMreminder)
+* Stop & Line for Rapid Transit (STPstop_LINline e.g. STPkingsx_LINnorthern)
 
 Optional Flags:
 * Tic/Stim : TIC
